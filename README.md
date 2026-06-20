@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurros-que-matan/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Susurros que matan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-que-matan/) |
+| **Get License** | [Secure Licensing Rights for Susurros que matan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-que-matan/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Susurros que matan en la oscuridad
+> Tu piel llama fuerte, no puedo escapar
+> Un beso prohibido, dulce tempestad
+> Esta noche el fuego nos va a quemar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
