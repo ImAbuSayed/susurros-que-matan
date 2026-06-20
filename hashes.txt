@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Susurros que matan
+
+This log tracks the cryptographic history and versioning for the song **Susurros que matan** (susurros-que-matan).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T08:40:11.621866 | `v1` | `dd3c3c31f41824ba599f6952f560652afceea529448418ab49de07c4e08c5fad` | `f6b71f1a001887b78889cf55b3269b903c35d1289e33e435c0c4f479657f2328` | `2026-06-20_susurros-que-matan-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

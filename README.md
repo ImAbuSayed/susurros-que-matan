@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurros-que-matan/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Susurros que matan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-que-matan/) |
+| **Get License** | [Music Rights & Licensing for Susurros que matan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-que-matan/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `dd3c3c31f41824ba599f6952f560652afceea529448418ab49de07c4e08c5fad` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
